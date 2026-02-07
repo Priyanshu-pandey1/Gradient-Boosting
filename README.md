@@ -32,6 +32,7 @@ Gradient Boosting is a powerful ensemble technique that optimizes a differentiab
 * **Accuracy:** **91.33%**
 
 ---
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Priyanshu-pandey1/Gradient-Boosting.git](https://github.com/Priyanshu-pandey1/Gradient-Boosting.git)
+
+## 📂 Repository Structure
+
+* `gradient_boosting.ipynb`: The main Jupyter Notebook containing the end-to-end implementation for both the regressor and classifier.
